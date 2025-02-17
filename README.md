@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **private projects**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Godot**
 
 - 🧑‍💻 I’m working a 9-5 Job as a **Fullstack Developer** and **DevOps**
 
